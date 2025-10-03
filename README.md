@@ -24,8 +24,9 @@ Cloud & Databases
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </p>
 
 🔥 Streak Stats
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishjadhav&theme=radical" alt="GitHub Streak" /> </div>
-📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishjadhav&theme=radical&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&background=0D1117" alt="GitHub Streak" />
+</div>📈 Activity Graph
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=atishjadhav&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="100%"/> </div>
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=atishjadhav&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" /> </div>

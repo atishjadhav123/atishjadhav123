@@ -23,10 +23,6 @@ Backend Development
 Cloud & Databases
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </p>
 
-🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishjadhav&theme=radical&background=0D1117&dates=737373&ring=FF0000&fire=FF0000" alt="GitHub Streak from 2023 to Present" />
-</div>
 </div>📈 Activity Graph
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=atishjadhav&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="100%"/> </div>
 🏆 GitHub Trophies

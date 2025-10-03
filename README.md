@@ -25,7 +25,8 @@ Cloud & Databases
 
 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishjadhav&theme=radical&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishjadhav&theme=radical&background=0D1117&dates=737373&ring=FF0000&fire=FF0000" alt="GitHub Streak from 2023 to Present" />
+</div>
 </div>📈 Activity Graph
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=atishjadhav&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="100%"/> </div>
 🏆 GitHub Trophies

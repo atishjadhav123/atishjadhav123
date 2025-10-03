@@ -22,8 +22,7 @@ Backend Development
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </p>
 Cloud & Databases
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </p>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atishjadhav&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Atish's GitHub stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atishjadhav&layout=compact&theme=radical" alt="Top Languages" /> </div>
+
 🔥 Streak Stats
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishjadhav&theme=radical" alt="GitHub Streak" /> </div>
 📈 Activity Graph
@@ -87,8 +86,4 @@ Node.js       ███████████░░░░░░░░░░   
 Mobile Dev    █████████░░░░░░░░░░░░   45%
 <div align="center">
 ⭐ If you like my work, don't forget to star my repositories and follow me!
-https://komarev.com/ghpvc/?username=atishjadhav&color=blueviolet&style=flat-square
-
-"Code is like humor. When you have to explain it, it's bad." - Cory House
-
 </div>

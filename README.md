@@ -57,12 +57,7 @@ I am a passionate **Full Stack Developer** with experience in building dynamic a
 
 ---
 
-### 📫 Connect with Me:
 
-- [LinkedIn](https://www.linkedin.com/in/atish-jadhav123/)
-- [GitHub](https://github.com/atishjadhav123)
-- [Twitter](https://twitter.com/) (Optional)
-- Email: atish.jadhav@example.com
 
 ---
 

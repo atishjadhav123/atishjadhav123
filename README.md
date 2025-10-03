@@ -27,8 +27,7 @@ Cloud & Databases
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=atishjadhav&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="100%"/> </div>
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=atishjadhav&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" /> </div>
-📫 Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/atishjadhav" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/atishjadhav" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:atishjadhav@email.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://portfolio-atishjadhav.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/> </a> </p>
+
 💻 Featured Projects
 🚀 Project 1: E-Commerce Platform
 Tech Stack: React, Node.js, MongoDB, Express
